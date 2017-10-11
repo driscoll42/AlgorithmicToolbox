@@ -5,6 +5,7 @@ import random
 
 def max_pairwise_product_old(numValues, values):
     '''
+    Testing Github
     file = open('input.txt', 'r')
     n = int(file.readline())
     a = [int(x) for x in file.readline().split()]
